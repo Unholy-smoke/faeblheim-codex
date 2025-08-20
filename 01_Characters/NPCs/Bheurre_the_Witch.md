@@ -4,6 +4,22 @@ layer: "In-game"
 type: "NPC"
 tags: ["npc"]
 aliases: ["Bheurre"]
-source: "Episodes 1–32 master notes"
+source: "Merged: notes 1–32 + Codex1.0"
 ---
-Ancient witch with a sliding door and sliding morality; trades scryings for roc eggs. Often found around Near [[Reichshaven]].
+### Overview
+Ancient witch in a cave with a sliding door and sliding rates; trades in scryings and roc eggs.
+
+**Aliases:** Bheurre.
+
+**First seen:** Session 17; **Last seen:** Session 17.
+
+### From Codex 1.0
+- 
+- layer: In-game
+- location: Mountains near Reichshaven
+- role: Witch and Scrying Source
+- npc
+- witch
+
+### Notable moments (from notes)
+- **S17:** Find an old witch Bheurre inside a cave with a sliding entrance. Seems friendly?

@@ -1,13 +1,15 @@
 ---
-name: "Amon Herr"
+name: "Han Amour (Gustius Glaive)"
 layer: "In-game"
 type: "NPC"
 tags: ["npc"]
-aliases: []
+aliases: ["Gustius Glaive"]
 source: "Merged: notes 1–32 + Codex1.0"
 ---
 ### Overview
-New cold front of the Carnium; a management style that lowers room temperature.
+Vampire ex‑boss of the Carnium; charisma sharpened on obsidian.
+
+**Aliases:** Gustius Glaive.
 
 **First seen:** Session 18; **Last seen:** Session 18.
 

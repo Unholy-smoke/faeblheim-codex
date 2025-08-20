@@ -4,6 +4,9 @@ layer: "In-game"
 type: "NPC"
 tags: ["npc"]
 aliases: []
-source: "Episodes 1–32 master notes"
+source: "Merged: notes 1–32 + Codex1.0"
 ---
-A very small goliath running a very large forge; jokes land on anvil. Often found around [[Grima]].
+### Overview
+Compact goliath with a frankly irresponsible forge; jokes land on an anvil.
+
+**First seen:** Session —; **Last seen:** Session —.

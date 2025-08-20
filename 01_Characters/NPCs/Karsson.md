@@ -4,6 +4,12 @@ layer: "In-game"
 type: "NPC"
 tags: ["npc"]
 aliases: []
-source: "Episodes 1–32 master notes"
+source: "Merged: notes 1–32 + Codex1.0"
 ---
-Gnome cobbler; gryphon-sandal visionary. Often found around Darmstadt outskirts.
+### Overview
+Gnome cobbler; visionary behind gryphon footwear.
+
+**First seen:** Session 03; **Last seen:** Session 03.
+
+### Notable moments (from notes)
+- **S03:** Off to see Gnome cobbler Karsson about sandal mission.

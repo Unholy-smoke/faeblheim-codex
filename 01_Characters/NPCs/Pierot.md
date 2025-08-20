@@ -4,6 +4,12 @@ layer: "In-game"
 type: "NPC"
 tags: ["npc"]
 aliases: []
-source: "Episodes 1–32 master notes"
+source: "Merged: notes 1–32 + Codex1.0"
 ---
-French kobold player, level 12, opinions level 20. Often found around Worldspire region.
+### Overview
+French kobold player, level 12, with stronger opinions than most bosses.
+
+**First seen:** Session 12; **Last seen:** Session 12.
+
+### Notable moments (from notes)
+- **S12:** Pierot is the french kobold on the boat. Player. Says he's level 12. Tells us where the labyrinth is, near the giant mountain.

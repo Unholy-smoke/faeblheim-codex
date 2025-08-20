@@ -4,6 +4,19 @@ layer: "In-game"
 type: "NPC"
 tags: ["npc"]
 aliases: ["Lily"]
-source: "Episodes 1–32 master notes"
+source: "Merged: notes 1–32 + Codex1.0"
 ---
-Smiling sentinel of the Beginner’s Lounge; exposition with a cup of tea. Often found around [[Starters_Tower_Beginners_Lounge]].
+### Overview
+Smiling sentinel of the Starter Tower’s lounge; exposition rendered as hospitality.
+
+**Aliases:** Lily.
+
+**First seen:** Session —; **Last seen:** Session —.
+
+### From Codex 1.0
+- 
+- layer: "In-game"
+- location: "Beginner Lounge"
+- role: "Introductory NPC, guide for new players"
+- source: "Faeblheim Online Players Guide"
+- 

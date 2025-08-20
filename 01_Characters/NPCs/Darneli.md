@@ -4,6 +4,12 @@ layer: "In-game"
 type: "NPC"
 tags: ["npc"]
 aliases: []
-source: "Episodes 1–32 master notes"
+source: "Merged: notes 1–32 + Codex1.0"
 ---
-Wizard who died, got better, and donated armour components. Often found around [[Floros]].
+### Overview
+Wizard who died, recovered, and contributed armour components.
+
+**First seen:** Session 06; **Last seen:** Session 06.
+
+### Notable moments (from notes)
+- **S06:** Darneli the wizard - a player - died i nteh fight. We sold his mates scroll of revivification, back to life. To thank us, he prepped me a big chunk of buleit carapace to make into armour.

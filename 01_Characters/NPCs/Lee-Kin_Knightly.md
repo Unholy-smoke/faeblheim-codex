@@ -4,6 +4,15 @@ layer: "In-game"
 type: "NPC"
 tags: ["npc"]
 aliases: ["Lee Kin"]
-source: "Episodes 1–32 master notes"
+source: "Merged: notes 1–32 + Codex1.0"
 ---
-Pale elf fixer who paid for a briefcase filled with a town’s future. Often found around [[Harz]] / [[Teremin]].
+### Overview
+Pale elf fixer; took custody of a briefcase that belonged to a whole town.
+
+**Aliases:** Lee Kin.
+
+**First seen:** Session 29; **Last seen:** Session 32.
+
+### Notable moments (from notes)
+- **S29:** Lee-Kin Knightly is the quest giver.
+- **S32:** White skinned elf receives the briefcase. Lee-Kin Knightly. Pays us. Mysterious ice queen - surely part of the carnium.
