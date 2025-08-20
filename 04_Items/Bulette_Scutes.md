@@ -3,6 +3,12 @@ name: "Bulette Scutes"
 layer: "In-game"
 type: "Item"
 tags: ["item"]
-source: "Codex 1.0 import"
+aliases: ["Bulette Plates", "Bulette Plating"]
+source: "Merged: notes 1–32 + Codex1.0"
 ---
-Raw bulette plating, harvested for armourcraft like [[Bulette_Carapace_Armour]].
+### Overview
+Raw bulette plating destined for craft; evidence of your ongoing negotiations with geology.
+
+**Aliases:** Bulette Plates, Bulette Plating.
+
+**First seen:** Session —; **Last seen:** Session —.

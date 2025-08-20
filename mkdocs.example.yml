@@ -1,5 +1,6 @@
 site_name: Faeblheim Codex 2.0
 docs_dir: .
+site_dir: ../_site_faeblheim
 theme:
   name: material
   features:

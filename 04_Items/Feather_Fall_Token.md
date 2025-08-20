@@ -3,6 +3,12 @@ name: "Feather Fall Token"
 layer: "In-game"
 type: "Item"
 tags: ["item"]
-source: "Episodes 1–32 / Guide / Diary"
+aliases: ["Feather Token", "Featherfall Token"]
+source: "Merged: notes 1–32 + Codex1.0"
 ---
-Gryphon trinket; convenient drops.
+### Overview
+A tidy pocket pardon for gravity’s rudeness.
+
+**Aliases:** Feather Token, Featherfall Token.
+
+**First seen:** Session —; **Last seen:** Session —.

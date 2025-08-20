@@ -1,8 +1,14 @@
 ---
-name: "Shark tooth Necklace"
+name: "Shark‑tooth Necklace"
 layer: "In-game"
 type: "Item"
 tags: ["item"]
-source: "Codex 1.0 import"
+aliases: ["Shark Tooth Necklace"]
+source: "Merged: notes 1–32 + Codex1.0"
 ---
-Necklace of serrated teeth; favoured by sea‑folk and lucky captains.
+### Overview
+Serrated charm favoured by sea‑folk and lucky captains; briny style with bite.
+
+**Aliases:** Shark Tooth Necklace.
+
+**First seen:** Session —; **Last seen:** Session —.

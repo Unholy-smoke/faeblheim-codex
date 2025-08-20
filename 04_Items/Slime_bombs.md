@@ -1,8 +1,14 @@
 ---
-name: "Slime bombs"
+name: "Slime Bombs"
 layer: "In-game"
 type: "Item"
 tags: ["item"]
-source: "Codex 1.0 import"
+aliases: ["Slime Bomb"]
+source: "Merged: notes 1–32 + Codex1.0"
 ---
-Glass globes of reactive slime; effective, messy ordnance from mill stock.
+### Overview
+Glass globes of reactive slime—industrial waste rebranded as tactics.
+
+**Aliases:** Slime Bomb.
+
+**First seen:** Session —; **Last seen:** Session —.

@@ -1,8 +1,14 @@
 ---
-name: "Artificer Gauntlets"
+name: "Artificer’s Gauntlets"
 layer: "In-game"
 type: "Item"
 tags: ["item"]
-source: "Codex 1.0 import"
+aliases: ["Artificer Gauntlets"]
+source: "Merged: notes 1–32 + Codex1.0"
 ---
-Heavy, rune‑etched gauntlets enabling precision work and brutal punches.
+### Overview
+Rune‑etched knuckled marvels for precision craft and impromptu negotiations.
+
+**Aliases:** Artificer Gauntlets.
+
+**First seen:** Session —; **Last seen:** Session —.

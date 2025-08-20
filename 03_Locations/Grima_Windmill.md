@@ -3,6 +3,10 @@ name: "Grima Windmill"
 layer: "In-game"
 type: "Location"
 tags: ["location"]
-source: "Episodes 1–32 / Guide / Diary"
+aliases: []
+source: "Merged: notes 1–32 + Codex1.0"
 ---
-Slime-powered industry and hazard.
+### Overview
+Slime-powered industry; useful, hazardous, and very grateful.
+
+**First seen:** Session —; **Last seen:** Session —.

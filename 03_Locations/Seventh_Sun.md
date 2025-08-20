@@ -1,8 +1,21 @@
 ---
-name: "Seventh Sun"
+name: "Seventh Sun (Lataine)"
 layer: "In-game"
 type: "Location"
 tags: ["location"]
-source: "Codex 1.0 import"
+aliases: ["The Seventh Sun"]
+source: "Merged: notes 1–32 + Codex1.0"
 ---
-A noted inn at [[Lataine]] (St Malia); sailors and spies trade beds and rumours.
+### Overview
+Noted inn at Lataine; sailors and spies trade beds and rumours.
+
+**Aliases:** The Seventh Sun.
+
+**First seen:** Session —; **Last seen:** Session —.
+
+### From Codex 1.0
+- 
+- layer: "In-game"
+- description: "Hotel and pub in Lataine where the party rests."
+- source: "Bogsu's Gameplay Notes"
+- 

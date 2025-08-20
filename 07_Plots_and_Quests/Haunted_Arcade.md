@@ -3,7 +3,10 @@ name: "Haunted Arcade"
 layer: "In-game"
 type: "Quest"
 tags: ["quest"]
-source: "Codex 1.0 import"
-status: "active"
+aliases: []
+source: "Merged: notes 1–32 + Codex1.0"
 ---
-Resolve the disturbances plaguing the arcade—spirits, scams, or something stranger?
+### Overview
+Haunted Arcade: plot entry consolidated from session notes and earlier codex references.
+
+**First seen:** Session —; **Last seen:** Session —.

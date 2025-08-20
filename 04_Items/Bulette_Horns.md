@@ -3,6 +3,12 @@ name: "Bulette Horns"
 layer: "In-game"
 type: "Item"
 tags: ["item"]
-source: "Episodes 1–32 / Guide / Diary"
+aliases: ["Bulette Horn"]
+source: "Merged: notes 1–32 + Codex1.0"
 ---
-Six trophies from a siege night.
+### Overview
+Six trophies from a long night; forge fuel for favours with armourers.
+
+**Aliases:** Bulette Horn.
+
+**First seen:** Session —; **Last seen:** Session —.

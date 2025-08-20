@@ -3,6 +3,10 @@ name: "Sun and Sky"
 layer: "In-game"
 type: "Lore"
 tags: ["lore"]
-source: "Codex 1.0 import"
+aliases: []
+source: "Merged: notes 1–32 + Codex1.0"
 ---
-A metaphoric pairing in Taiian rites and old sailor oaths.
+### Overview
+Sun and Sky: lore entry consolidated from session notes and earlier codex references.
+
+**First seen:** Session —; **Last seen:** Session —.

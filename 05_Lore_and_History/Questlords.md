@@ -3,6 +3,10 @@ name: "Questlords"
 layer: "In-game"
 type: "Lore"
 tags: ["lore"]
-source: "Codex 1.0 import"
+aliases: []
+source: "Merged: notes 1–32 + Codex1.0"
 ---
-An early cadre of power‑players who shaped quest routing and rewards.
+### Overview
+Questlords: lore entry consolidated from session notes and earlier codex references.
+
+**First seen:** Session —; **Last seen:** Session —.

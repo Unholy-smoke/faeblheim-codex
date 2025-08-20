@@ -3,6 +3,17 @@ name: "Haunted Arcade"
 layer: "In-game"
 type: "Location"
 tags: ["location"]
-source: "Codex 1.0 import"
+aliases: []
+source: "Merged: notes 1–32 + Codex1.0"
 ---
-An eerie promenade of shuttered stalls and flickering lanterns; a place and a problem.
+### Overview
+Eerie promenade of shuttered stalls; a place and a problem.
+
+**First seen:** Session —; **Last seen:** Session —.
+
+### From Codex 1.0
+- 
+- layer: "In-game"
+- description: "Spooky game area in Grima where the Medal of Horror was obtained."
+- source: "Bogsu's Gameplay Notes"
+- 
