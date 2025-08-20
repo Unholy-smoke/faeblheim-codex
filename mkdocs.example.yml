@@ -1,0 +1,19 @@
+site_name: Faeblheim Codex 2.0
+docs_dir: .
+theme:
+  name: material
+  features:
+    - navigation.sections
+    # Do NOT set navigation.expand so sections stay collapsed by default
+plugins:
+  - search
+  - awesome-pages:
+      collapse_single_pages: true
+  - roamlinks
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+# No explicit 'nav:' needed — awesome-pages + .pages drive the tree.

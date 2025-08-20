@@ -1,0 +1,10 @@
+nav:
+  - 00_Meta
+  - 01_Characters
+  - 02_Sessions
+  - 03_Locations
+  - 04_Items
+  - 05_Lore_and_History
+  - 06_Gameplay_Mechanics
+  - 07_Plots_and_Quests
+  - assets
