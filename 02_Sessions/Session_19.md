@@ -3,7 +3,7 @@ title: "Session 19"
 layer: "In-game"
 type: "Session"
 tags: ["session_notes"]
-source: "Episodes 1â€“32 master notes"
+source: "Episodes 1-32 master notes"
 ---
 ## Summary
 

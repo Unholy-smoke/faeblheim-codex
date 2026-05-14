@@ -3,12 +3,12 @@ title: "Session 24"
 layer: "In-game"
 type: "Session"
 tags: ["session_notes"]
-source: "Episodes 1â€“32 master notes"
+source: "Episodes 1-32 master notes"
 ---
 ## Summary
 
 - Parley with the Player Killers.
-- "We have a middle ground person." "You have...a little brown person???"
+- "We have a middle ground person." "You have...a little brown person?"
 - Suggest we all drink truth Water so we can all be frank bu Karl isn't keen.
 - Karl: early versions of game were an alpha. Demon war was part of the history of the game.
 - When v1.5 was released the game became easier, softer.
@@ -48,7 +48,7 @@ source: "Episodes 1â€“32 master notes"
 ## Source Notes
 
 - Parley with the Player Killers. 
-- "We have a middle ground person." "You have...a little brown person???"
+- "We have a middle ground person." "You have...a little brown person?"
 - Suggest we all drink truth Water so we can all be frank bu Karl isn't keen.
 - Karl: early versions of game were an alpha. Demon war was part of the history of the game.
 - When v1.5 was released the game became easier, softer.

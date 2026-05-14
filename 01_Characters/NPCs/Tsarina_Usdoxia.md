@@ -4,7 +4,7 @@ layer: "In-game"
 type: "NPC"
 tags: ["npc"]
 aliases: ["Queen Usdoxia", "Usdoxia", "Tsarina"]
-source: "Merged: notes 1â€“32 + Codex1.0"
+source: "Merged: notes 1-32 + Codex1.0"
 ---
 ### Overview
 Ruler of Ymleif; cautious but pragmatic monarch who granted audiences about looming war and tolerated uncomfortable truths.

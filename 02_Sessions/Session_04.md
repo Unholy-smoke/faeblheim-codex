@@ -3,7 +3,7 @@ title: "Session 04"
 layer: "In-game"
 type: "Session"
 tags: ["session_notes"]
-source: "Episodes 1â€“32 master notes"
+source: "Episodes 1-32 master notes"
 ---
 ## Summary
 
@@ -15,7 +15,7 @@ source: "Episodes 1â€“32 master notes"
 - Summons demon things. We fight them.
 - Bogsu finished him off, we went to investigate ruined scribes tower.
 - We dance and play violin to distract from Bryce breaking into pimporium.
-- Are the founders behind Baphomet???
+- Are the founders behind Baphomet?
 - The dirty scribe: half elf blonde young owner - Dimnos
 - We took book to Thieves Guild, paid us loads. Got 25 platinum.
 - The book had contained a key, which we took out before handing over. The Guild didn't ask for key!
@@ -43,7 +43,7 @@ source: "Episodes 1â€“32 master notes"
 - Summons demon things. We fight them.
 - Bogsu finished him off, we went to investigate ruined scribes tower.
 - We dance and play violin to distract from Bryce breaking into pimporium.
-- Are the founders behind Baphomet??? 
+- Are the founders behind Baphomet?
 - The dirty scribe: half elf blonde young owner - Dimnos
 - We took book to Thieves Guild, paid us loads. Got 25 platinum.
 - The book had contained a key, which we took out before handing over. The Guild didn't ask for key!
