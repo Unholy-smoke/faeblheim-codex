@@ -1,10 +1,10 @@
----
+﻿---
 name: "Tsarina Usdoxia"
 layer: "In-game"
 type: "NPC"
 tags: ["npc"]
 aliases: ["Queen Usdoxia", "Usdoxia", "Tsarina"]
-source: "Merged: notes 1–32 + Codex1.0"
+source: "Merged: notes 1â€“32 + Codex1.0"
 ---
 ### Overview
 Ruler of Ymleif; cautious but pragmatic monarch who granted audiences about looming war and tolerated uncomfortable truths.
@@ -24,3 +24,5 @@ Ruler of Ymleif; cautious but pragmatic monarch who granted audiences about loom
 - **S23:** We journey southward towards Tsarina, and go to see Beurre the witch again. We tell her what we've learnt. She agrees to teleport us back to the Starter Tower above Grima. As soon as we arrive there with her, we are accosted by Karl and his cronies!
 - **S24:** Tsarina's house are Taiians, worshippers. Her family have been Rulers of Ym for 600 uncontested years.
 - **S29:** Back to Grima with plans to go kill the dragon (from the quest) then see the Tsarina.
+- **S32:** Grants her blessing for Bogsū to take holy orders, sends envoys to confirm Sverelt's ruin, and admits she has received Bogsū's letters but not read them.
+- **S34:** Grants the party her sigil to treat with the giants, then chokes on a red feather and is shaken by the idea that powers can affect reality.

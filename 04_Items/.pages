@@ -10,11 +10,15 @@ nav:
   - Bulette_Scutes.md
   - Chain_of_Returning.md
   - Crate_key.md
+  - Corrupted_Item.md
   - Dagger_of_Karl.md
   - Demon_Armour.md
   - Everlasting_Cigarette.md
+  - Emergency_Long_Rest_Item.md
   - Fae_Puzzle_Key.md
   - Feather_Fall_Token.md
+  - Fire_Giant_Gold_Bracelet.md
+  - Frost_Giant_Cloth.md
   - Frog_Whiskey.md
   - Glaive_Plus1.md
   - Glaive_Plus3.md
@@ -22,6 +26,7 @@ nav:
   - Gryphon_Shoes.md
   - Headband_of_Intellect.md
   - Hermes_Key.md
+  - Horn_of_Magical_Fear.md
   - Medal_of_Horror.md
   - Old_Captains_Log.md
   - Roc_Feathers.md
@@ -29,4 +34,6 @@ nav:
   - Shark_tooth_Necklace.md
   - Slime_bombs.md
   - Sun_Pearl.md
+  - Red_Feather.md
+  - Tsarina's_Sigil.md
   - Truth_Water.md

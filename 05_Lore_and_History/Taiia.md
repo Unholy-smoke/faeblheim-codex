@@ -1,10 +1,10 @@
----
+﻿---
 name: "Taiia"
 layer: "In-game"
 type: "Lore"
 tags: ["lore"]
 aliases: []
-source: "Merged: notes 1–32 + Codex1.0"
+source: "Merged: notes 1â€“32 + Codex1.0"
 ---
 ### Overview
 Taiia: lore entry consolidated from session notes and earlier codex references.
@@ -17,3 +17,6 @@ Taiia: lore entry consolidated from session notes and earlier codex references.
 - **S24:** Shrines to Taiia - could we visit one?
 - **S24:** Tsarina's house are Taiians, worshippers. Her family have been Rulers of Ym for 600 uncontested years.
 - **S32:** Bogsu says a silent prayer and feels the spirit of Taiia enter him. He is a cleric!
+- **S33:** Palace maze writings describe Taiia either splitting herself into six champions or empowering six mortals to fight the God-Felling Star.
+- **S41:** A vast glyph of Taiia floats above Rosh at the top of the Worldspire, the beginning of her spell that ended the Demon War and waits for activation.
+- **S42:** Taiia's power is being impeded and siphoned into an altar in Rosh, interrupting Bogsū when he tries to speak with her.

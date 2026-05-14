@@ -1,10 +1,10 @@
----
+﻿---
 name: "Baphomet"
 layer: "In-game"
 type: "Lore"
 tags: ["lore"]
 aliases: []
-source: "Merged: notes 1–32 + Codex1.0"
+source: "Merged: notes 1â€“32 + Codex1.0"
 ---
 ### Overview
 Baphomet: lore entry consolidated from session notes and earlier codex references.
@@ -18,3 +18,5 @@ Baphomet: lore entry consolidated from session notes and earlier codex reference
 - **S24:** In the video, they are in a labyrinth while Baphomet's Beasts attack. Elia becomes a giraffe to see over the wall.
 - **S28:** Elia talks to plants. They want us to enter the maze and die. Clearly Baphomet is now in charge rather than the fey.
 - **S29:** It leaves behind half the face-mask of Baphomets general, known as Anghraboddh
+- **S33:** Deacon Fned says the mask of Anghraboddh can be destroyed in the Infinite Maze of Baphomet by casting it into the Great Forge.
+- **S42:** Anghraboddh, General of Baphomet, waits ahead in Rosh as a huge deer-skull demon.

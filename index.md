@@ -1,4 +1,4 @@
-# Faeblheim Codex 2.0
+﻿# Faeblheim Codex 2.0
 
 Welcome to the Codex. Use the left navigation to explore characters, sessions, locations, items, lore, mechanics, and quests.
 
@@ -6,8 +6,8 @@ Welcome to the Codex. Use the left navigation to explore characters, sessions, l
 - Search works across everything — try `Adonis Blue`, `Sverelt`, or `Sun Pearl`.
 
 ## Quick links
-- [[02_Sessions/Session_01]]
-- [[01_Characters/PCs/Bogsū]]
-- [[01_Characters/NPCs/Tsarina_Usdoxia]]
-- [[03_Locations/Grima]]
-- [[07_Plots_and_Quests/Green_Dragon_of_Harz]]
+- [[Session_01]]
+- [[Bogsū]]
+- [[Tsarina_Usdoxia]]
+- [[Grima]]
+- [[Green_Dragon_of_Harz]]

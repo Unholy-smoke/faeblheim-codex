@@ -32,3 +32,7 @@ Mayor of Grima and figurehead for the Player Killers; keeps a diary full of shar
 - **S32:** Travel to Floros. Karl is here! We have some good chat. He is considering banning the killing of tieflings.
 - **S32:** Karl goes in to talk to the Tsarina. We go to some rooms to freshen up.
 - **S32:** Karl knocks in Bogsus door. Tsarina wants to see Alayah about the window quest.
+- **S37:** Karl and his crew are present at the Spire tournament while competitors and spectators begin dying.
+- **S40:** Karl's crew reaches Gufragel by elevator and argues with the party over who should go to the top of the Spire.
+- **S41:** The party visits Karl's crew, plays dice and wins money from them.
+- **S43:** Karl's crew arrives during the confrontation with Dagger and helps hold him off long enough for the party to crack the altar.
