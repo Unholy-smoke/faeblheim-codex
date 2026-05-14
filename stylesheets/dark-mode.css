@@ -1,0 +1,68 @@
+:root {
+  --md-default-bg-color: #000;
+  --md-default-bg-color--light: #050505;
+  --md-default-bg-color--lighter: #0a0a0a;
+  --md-default-bg-color--lightest: #111;
+  --md-default-fg-color: #fff;
+  --md-default-fg-color--light: #f0f0f0;
+  --md-default-fg-color--lighter: #d8d8d8;
+  --md-default-fg-color--lightest: #bfbfbf;
+  --md-primary-fg-color: #000;
+  --md-primary-bg-color: #fff;
+  --md-accent-fg-color: #f6d365;
+  --md-code-bg-color: #111;
+  --md-code-fg-color: #fff;
+}
+
+body,
+.md-main,
+.md-content,
+.md-sidebar,
+.md-header,
+.md-tabs {
+  background: #000;
+  color: #fff;
+}
+
+.md-typeset {
+  color: #fff;
+}
+
+.md-typeset a,
+.md-nav__link--active,
+.md-nav__link:focus,
+.md-nav__link:hover {
+  color: #f6d365;
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4,
+.md-typeset h5,
+.md-typeset h6 {
+  color: #fff;
+}
+
+.md-search__form,
+.md-search__input,
+.md-nav,
+.md-footer,
+.md-footer-meta {
+  background: #000;
+  color: #fff;
+}
+
+.md-typeset table:not([class]) {
+  background: #050505;
+}
+
+.md-typeset table:not([class]) th,
+.md-typeset table:not([class]) td {
+  border-color: #333;
+}
+
+.md-typeset code,
+.md-typeset pre {
+  background: #111;
+}
