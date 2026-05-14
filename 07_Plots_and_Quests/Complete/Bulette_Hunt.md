@@ -2,6 +2,7 @@
 name: "Bulette Hunt"
 layer: "In-game"
 type: "Quest"
+status: "Complete"
 tags: ["quest"]
 aliases: ["Bulette Hunt", "Bulette Armour"]
 source: "Merged: notes 1–32"

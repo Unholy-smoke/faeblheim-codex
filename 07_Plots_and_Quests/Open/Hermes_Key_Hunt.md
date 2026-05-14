@@ -2,6 +2,7 @@
 name: "Hermes Key Hunt"
 layer: "In-game"
 type: "Quest"
+status: "Open"
 tags: ["quest"]
 aliases: ["Hermes Key", "Keys Home", "Hermes"]
 source: "Merged: notes 1–32"

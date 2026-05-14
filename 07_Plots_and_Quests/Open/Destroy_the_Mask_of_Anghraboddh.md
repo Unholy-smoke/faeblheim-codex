@@ -2,6 +2,7 @@
 name: "Destroy the Mask of Anghraboddh"
 layer: "In-game"
 type: "Quest"
+status: "Open"
 tags: ["quest"]
 source: "33on.txt"
 ---

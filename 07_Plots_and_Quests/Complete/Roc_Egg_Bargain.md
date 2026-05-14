@@ -1,8 +1,9 @@
 ---
-name: "Hainic Mountain Temple"
+name: "Roc Egg Bargain"
 layer: "In-game"
 type: "Quest"
+status: "Complete"
 tags: ["quest"]
 source: "Episodes 1–32 / Guide / Diary"
 ---
-Crack the bandit temple; mind the zombies.
+Pay Bheurre with sky-eggs for scryings.

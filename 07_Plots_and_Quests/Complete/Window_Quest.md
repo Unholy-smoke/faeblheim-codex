@@ -2,6 +2,7 @@
 name: "Window Quest"
 layer: "In-game"
 type: "Quest"
+status: "Complete"
 tags: ["quest"]
 aliases: ["Palace Window", "Adonis Blue Window", "Adonis Blue"]
 source: "Merged: notes 1–32"
@@ -10,9 +11,9 @@ source: "Merged: notes 1–32"
 The Tsarina’s request to investigate the palace window which looks onto a pocket reality; resulted in contact with Adonis Blue and a carefully maintained glamour.
 
 ### Art
-![Hermit](../assets/character%20art/Hermit.png)
+![Hermit](../../assets/character%20art/Hermit.png)
 
-![Dagger scries from the hermit pocket realm](../assets/character%20art/Dagger%20Hermit%20Scries.jpg)
+![Dagger scries from the hermit pocket realm](../../assets/character%20art/Dagger%20Hermit%20Scries.jpg)
 
 **Aliases:** Adonis Blue, Adonis Blue Window, Palace Window.
 

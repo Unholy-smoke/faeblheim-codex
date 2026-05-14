@@ -2,6 +2,7 @@
 name: "Roc Egg Bheurre"
 layer: "In-game"
 type: "Quest"
+status: "Complete"
 tags: ["quest"]
 aliases: ["Roc Egg", "Bheurre the Witch", "Bheurre"]
 source: "Merged: notes 1–32"

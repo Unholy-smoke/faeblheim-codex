@@ -2,6 +2,7 @@
 name: "Scribes Tower Heist"
 layer: "In-game"
 type: "Quest"
+status: "Complete"
 tags: ["quest"]
 aliases: ["Book Heist", "Scribes Tower Heist", "Dirty Scribe Job"]
 source: "Merged: notes 1-32"

@@ -2,6 +2,7 @@
 name: "Mystery Giants Theatre"
 layer: "In-game"
 type: "Quest"
+status: "Open"
 tags: ["quest", "mystery"]
 source: "33on.txt"
 ---
@@ -9,6 +10,6 @@ Investigation into murders among the giants of the [[Worldspire]], beginning in 
 
 The culprit threat is linked to the [[Megurash]], including [[Midnakesh]], and escalates as the party climbs through [[Cafregil]], [[Gufragel]] and [[Rosh]].
 
-**Status:** Ongoing.
+**Status:** Open.
 
 **First seen:** Session 35; **Last seen:** Session 41.

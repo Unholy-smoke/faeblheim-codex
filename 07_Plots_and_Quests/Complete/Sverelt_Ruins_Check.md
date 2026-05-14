@@ -2,6 +2,7 @@
 name: "Sverelt Ruins Check"
 layer: "In-game"
 type: "Quest"
+status: "Complete"
 tags: ["quest"]
 aliases: ["Sverelt", "Sveralt"]
 source: "Merged: notes 1–32"

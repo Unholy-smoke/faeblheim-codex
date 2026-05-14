@@ -2,6 +2,7 @@
 name: "Sahuagin Pearl Heist Squids In"
 layer: "In-game"
 type: "Quest"
+status: "Complete"
 tags: ["quest"]
 source: "Episodes 1–32 / Guide / Diary"
 ---

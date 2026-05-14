@@ -2,6 +2,7 @@
 name: "Rescue Lin Larkin"
 layer: "In-game"
 type: "Quest"
+status: "Complete"
 tags: ["quest"]
 aliases: ["Rescue Lin", "Find Lin", "Lin Larkin"]
 source: "Merged: notes 1–32"

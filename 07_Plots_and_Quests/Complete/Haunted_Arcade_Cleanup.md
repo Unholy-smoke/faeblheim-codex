@@ -2,6 +2,7 @@
 name: "Haunted Arcade Cleanup"
 layer: "In-game"
 type: "Quest"
+status: "Complete"
 tags: ["quest"]
 aliases: ["Haunted Arcade", "Arcade"]
 source: "Merged: notes 1-32"

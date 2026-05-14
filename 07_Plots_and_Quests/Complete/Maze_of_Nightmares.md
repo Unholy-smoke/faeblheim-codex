@@ -2,15 +2,16 @@
 name: "Maze of Nightmares"
 layer: "In-game"
 type: "Quest"
+status: "Complete"
 tags: ["quest"]
 source: "Episodes 1–32 / Guide / Diary"
 ---
 Find the shrine; try not to lose yourself.
 
 ### Art
-![Mysterious altar](../assets/character%20art/Mysterious%20altar.png)
+![Mysterious altar](../../assets/character%20art/Mysterious%20altar.png)
 
-![Mysterious altar approach](../assets/character%20art/Mysterious%20Altar%202.jpg)
+![Mysterious altar approach](../../assets/character%20art/Mysterious%20Altar%202.jpg)
 
 ### Session 33
 

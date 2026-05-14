@@ -2,13 +2,14 @@
 name: "Free the Saints"
 layer: "In-game"
 type: "Quest"
+status: "Open"
 tags: ["quest", "saints"]
 source: "33on.txt"
 ---
 After the party cracked the altar at the top of the [[Worldspire]], a freed Saint revealed that he was one of the [[Monarchs]], and that [[Adonis_Blue_(Dagger)|Adonis Blue (Dagger)]] is one as well. The party must free the remaining Saints to have any real chance against Dagger.
 
 ### Art
-![Mysterious altar](../assets/character%20art/Mysterious%20altar.png)
+![Mysterious altar](../../assets/character%20art/Mysterious%20altar.png)
 
 Known locations:
 

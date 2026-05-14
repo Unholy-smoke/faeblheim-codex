@@ -2,6 +2,7 @@
 name: "Kraken Pearl Diplomacy"
 layer: "In-game"
 type: "Quest"
+status: "Complete"
 tags: ["quest"]
 aliases: ["Sun Pearl", "Kraken Egg"]
 source: "Merged: notes 1–32"

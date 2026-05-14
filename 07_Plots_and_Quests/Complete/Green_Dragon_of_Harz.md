@@ -2,6 +2,7 @@
 name: "Green Dragon of Harz"
 layer: "In-game"
 type: "Quest"
+status: "Complete"
 tags: ["quest"]
 aliases: ["Green Dragon", "Harz Dragon", "Teremin Dragon"]
 source: "Merged: notes 1–32"

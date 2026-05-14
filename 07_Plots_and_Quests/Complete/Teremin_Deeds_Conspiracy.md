@@ -2,6 +2,7 @@
 name: "Teremin Deeds Conspiracy"
 layer: "In-game"
 type: "Quest"
+status: "Complete"
 tags: ["quest"]
 aliases: ["Teremin Deeds", "Briefcase of Deeds", "Johannes Skeinseth"]
 source: "Merged: notes 1–32"
