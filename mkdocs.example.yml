@@ -3,9 +3,13 @@ docs_dir: .
 site_dir: ../_site_faeblheim
 theme:
   name: material
+  palette:
+    scheme: slate
   features:
     - navigation.sections
     # Do NOT set navigation.expand so sections stay collapsed by default
+extra_css:
+  - stylesheets/dark-mode.css
 plugins:
   - search
   - awesome-pages:
