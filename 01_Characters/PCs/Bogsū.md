@@ -9,6 +9,17 @@ source: "Episodes 1?32 master notes"
 ### Overview
 Bogsū started life as the party?s resident slab of resolve?an honest fighter with a glaive, a prayer he hadn?t quite learned yet, and a talent for getting in the way of danger so his friends didn?t have to. Somewhere between bulette-chopping, windmill-de-slime-ing, and a few too many near misses, Taiia noticed. Now he?s both hammer **and** hymn: a battlemaster who picked up a holy calling without putting the glaive down.
 
+### Art
+![Bogsu portrait](../../assets/character%20art/Bogsuface.png)
+
+![Bogsu portrait sketch](../../assets/character%20art/bogsu_portrait.jpeg)
+
+![Bogsu in demon armour](../../assets/character%20art/bogsu_armour.jpeg)
+
+![Bogsu in combat](../../assets/character%20art/bogsu_combat.jpeg)
+
+![Bogsu's glaive](../../assets/character%20art/bogsu_glaive.jpeg)
+
 ### Background & Drive
 Raised on simple promises?stand your post, mean what you say, pay what you owe?Bogsū has always worn loyalty like armour. He?s the one who squares up to the awkward conversation, hands the trophy back to its rightful owner, and then quietly pays for the repairs. The Tsarina?s blessing to take holy orders didn?t change him; it clarified him. Bogsū isn?t angling for sainthood. He?s angling to make sure his people see the sunrise.
 

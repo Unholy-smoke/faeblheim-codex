@@ -9,6 +9,9 @@ source: "Merged: notes 1–32 + Codex1.0"
 ### Overview
 Gnoll warlord mid‑ritual to call Yeenoghu; history interrupted.
 
+### Art
+![Ashmogh, Demon Fang of Yeenoghu](../../assets/character%20art/Unofficial%20art/Ashmogh%20Demon%20Fang%20of%20Yeenoghu.webp)
+
 **First seen:** Session 21; **Last seen:** Session 23.
 
 ### Notable moments (from notes)

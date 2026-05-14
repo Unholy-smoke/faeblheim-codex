@@ -7,6 +7,11 @@ source: "Episodes 1–32 / Guide / Diary"
 ---
 Find the shrine; try not to lose yourself.
 
+### Art
+![Mysterious altar](../assets/character%20art/Mysterious%20altar.png)
+
+![Mysterious altar approach](../assets/character%20art/Mysterious%20Altar%202.jpg)
+
 ### Session 33
 
 The palace maze became a hellish maze of fog, lightning, sulphur and demon dogs. The party escaped after a strange original player/shopkeeper used a genie created from Alayah's magic toads to remove the monsters and send them home.

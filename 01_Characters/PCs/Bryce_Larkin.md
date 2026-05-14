@@ -9,6 +9,9 @@ source: "Episodes 1?32 master notes"
 ### Overview
 Bryce Larkin is the swashbuckler who read the fine print and decided to write some new clauses. He wears trouble like a well-cut coat and has never met a window he didn?t consider a door. If the party needs a smile at court, a blade in a stairwell, or a getaway planned three scenes in advance, Bryce is already there?probably with a quip, definitely with a plan.
 
+### Art
+![Bryce Larkin portrait](../../assets/character%20art/Bryce%20face.png)
+
 ### Background & Drive
 Born into the kind of family where ?jeweller? means half guild, half spy-ring, Bryce grew up learning the value of a flawless cut?be it gem, reputation, or timing. Family obligations tug like tide: the search for answers around his father Lin?s captivity, the complicated debts that come with guild politics, and the quiet promise he keeps to those who didn?t make it out. Under the panache is a stubborn line: no one gets to tell the story of his people without him in the room.
 

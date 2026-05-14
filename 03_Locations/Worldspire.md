@@ -9,6 +9,9 @@ source: "Merged: notes 1–32 + Codex1.0"
 ### Overview
 The world’s needle; its shadow is a calendar for older secrets.
 
+### Art
+![Worldspire summit](../assets/character%20art/worldspire_summit.jpeg)
+
 **First seen:** Session 24; **Last seen:** Session 24.
 
 ### From Codex 1.0

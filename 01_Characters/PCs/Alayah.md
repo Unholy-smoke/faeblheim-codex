@@ -10,6 +10,11 @@ pronouns: "they/them"
 ### Overview
 Alayah?spelled variously as Alaya, Eliah, Alaiya, or whatever Common decides today?is a druid who treats mysteries like ecosystems: map the predators, nurture the prey, and introduce a controlled burn where appropriate. They are patient with forests, impatient with tyrants, and uncommonly persuasive with eldritch entities that live behind suspicious windows. Ask five officials to write their name and you?ll get six answers; Alayah seems content to let reality argue with itself while they get on with the work.
 
+### Art
+![Alayah portrait](../../assets/character%20art/Alayah%20face.png)
+
+![Alayah injured](../../assets/character%20art/alayah.jpeg)
+
 ### Background & Drive
 Some druids wander until the world feels familiar. Alayah wandered until it felt **strange enough**. They collect patterns the way others collect trinkets: tides in politics, migration of rumours, and the way grief flows downhill through a city. The natural world taught them responsibility without supervision; the unnatural world taught them the joy of saying ?no? to people who expected ?yes.? Their compass swings toward places where power has pooled too long?rotting wells that need opening, greedy roots that need pruning. Not crusading, exactly. Gardening, but for societies?and with more bears.
 

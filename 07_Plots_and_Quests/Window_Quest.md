@@ -9,6 +9,11 @@ source: "Merged: notes 1–32"
 ### Overview
 The Tsarina’s request to investigate the palace window which looks onto a pocket reality; resulted in contact with Adonis Blue and a carefully maintained glamour.
 
+### Art
+![Hermit](../assets/character%20art/Hermit.png)
+
+![Dagger scries from the hermit pocket realm](../assets/character%20art/Dagger%20Hermit%20Scries.jpg)
+
 **Aliases:** Adonis Blue, Adonis Blue Window, Palace Window.
 
 **First seen:** Session 23; **Last seen:** Session 32.

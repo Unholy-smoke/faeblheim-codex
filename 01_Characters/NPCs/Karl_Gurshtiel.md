@@ -9,6 +9,17 @@ source: "Merged: notes 1–32 + Codex1.0"
 ### Overview
 Mayor of Grima and figurehead for the Player Killers; keeps a diary full of sharp reflections and sharper suspicions.
 
+### Art
+![Karl portrait](../../assets/character%20art/Karl%20face.png)
+
+![Karl Gurshtiel](../../assets/character%20art/Karl.png)
+
+![Karl attacks](../../assets/character%20art/Karl%20Attacks.jpg)
+
+![Karl's magic](../../assets/character%20art/karl_magic.jpeg)
+
+![Karl's crew](../../assets/character%20art/karl_boss_michu_dikny.jpeg)
+
 **Aliases:** Karl.
 
 **First seen:** Session 07; **Last seen:** Session 32.

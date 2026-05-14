@@ -11,6 +11,9 @@ Creator goddess of Faeblheim and the power behind the Taiian faith. Taiia ended 
 
 Taiia's influence becomes personal when Bogsū feels her spirit enter him during mass and becomes a cleric. Later, at [[Rosh]], her power is being siphoned into an altar, interrupting Bogsū when he tries to reach her.
 
+### Art
+![Sigil of Taiia](../assets/character%20art/Unofficial%20art/Sigil%20of%20Taiia.png)
+
 **First seen:** Session 24; **Last seen:** Session 43.
 
 ### Notable mentions

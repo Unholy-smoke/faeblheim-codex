@@ -9,6 +9,9 @@ source: "Merged: notes 1–32 + Codex1.0"
 ### Overview
 Boss’s masterpiece: a precision instrument disguised as a polearm. Makes armour feel like a rumour.
 
+### Art
+![Bogsu's glaive](../assets/character%20art/bogsu_glaive.jpeg)
+
 **Aliases:** +3 Glaive.
 
 **First seen:** Session 28; **Last seen:** Session 28.

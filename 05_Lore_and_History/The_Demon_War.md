@@ -9,6 +9,9 @@ source: "Merged: notes 1-43 + Codex1.0"
 ### Overview
 Ancient conflict between [[Baphomet]] and [[Yeenoghu]], ended by [[Taiia]]. Session 24's explainer vision shows the war through a labyrinth under attack by Baphomet's beasts, and later evidence suggests Taiia's unfinished or suspended spell still hangs above [[Rosh]] at the top of the [[Worldspire]].
 
+### Art
+![Bulezau sketch](../assets/character%20art/Bulezau.jpg)
+
 The party first encountered the war as history, then saw its pattern threaten to repeat when [[Ashmogh]] attempted a ritual to summon Yeenoghu.
 
 **First seen:** Session 21; **Last seen:** Session 43.

@@ -9,6 +9,13 @@ source: "Merged: notes 1–32 + Codex1.0"
 ### Overview
 Close associate of Karl—unsettling poise; his motives and loyalties are topics of ongoing side‑eye.
 
+### Art
+![Michu portrait](../../assets/character%20art/Mi-Choo%20face.png)
+
+![Michu](../../assets/character%20art/Mi-Choo.png)
+
+![Michu and Rando](../../assets/character%20art/Mi-Choo%20and%20Rando.png)
+
 **First seen:** Session 05; **Last seen:** Session 24.
 
 ### From Codex 1.0

@@ -9,6 +9,9 @@ source: "Merged: notes 1–32 + Codex1.0"
 ### Overview
 Spiteful plate that whispers in Abyssal. Stylish, cursed, and occasionally right about things.
 
+### Art
+![Bogsu in demon armour](../assets/character%20art/bogsu_armour.jpeg)
+
 **Aliases:** Demon Armor.
 
 **First seen:** Session 22; **Last seen:** Session 26.

@@ -9,6 +9,13 @@ source: "Merged: notes 1–32 + Codex1.0"
 ### Overview
 Master smith and artificer operating in Grima; turns monster parts into wearable poetry and has little patience for nonsense.
 
+### Art
+![Boss portrait](../../assets/character%20art/Boss%20face.png)
+
+![Boss](../../assets/character%20art/Boss.png)
+
+![Boss at work](../../assets/character%20art/Boss%20%282%29.png)
+
 **First seen:** Session 01; **Last seen:** Session 32.
 
 ### Notable moments (from notes)

@@ -10,6 +10,17 @@ source: "Merged: notes 1-43 + Codex1.0"
 
 Reality-tuning founder living in a pocket universe; hates "inauthentic" glitches more than players and wants to cleanse Faeblheim of players.
 
+### Art
+![Adonis Blue](../../assets/character%20art/Adonis.png)
+
+![Dagger](../../assets/character%20art/Dagger%202.png)
+
+![Dagger scries from the hermit pocket realm](../../assets/character%20art/Dagger%20Hermit%20Scries.jpg)
+
+![Dagger sketch](../../assets/character%20art/dagger.jpeg)
+
+![Dagger full body](../../assets/character%20art/dagger2.jpeg)
+
 **Aliases:** Adonis Blue, Dagger.
 
 **First seen:** Session 10; **Last seen:** Session 43.

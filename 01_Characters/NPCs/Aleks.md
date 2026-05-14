@@ -9,6 +9,9 @@ source: "Merged: notes 1–32 + Codex1.0"
 ### Overview
 Level 6 player; homesteader with Jorin.
 
+### Art
+![Jorin and Aleks](../../assets/character%20art/Jorin%20and%20Aleks.jpg)
+
 **First seen:** Session 03; **Last seen:** Session 03.
 
 ### Notable moments (from notes)

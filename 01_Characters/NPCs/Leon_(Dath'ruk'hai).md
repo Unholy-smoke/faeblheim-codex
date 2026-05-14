@@ -10,6 +10,11 @@ source: "Merged: notes 1-32 + Codex1.0"
 
 Gold dragon passing as an orc bartender at the [[Green_Scream_Inn|Green Scream Inn]]; clandestine ally and worst-kept secret best friend.
 
+### Art
+![Leon the dragon](../../assets/character%20art/leon_the_dragon.jpeg)
+
+![Leon](../../assets/character%20art/Dragon.png)
+
 **Aliases:** Leon, Dath'ruk'hai.
 
 **First seen:** Session 05; **Last seen:** Session 28.

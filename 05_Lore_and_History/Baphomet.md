@@ -11,6 +11,11 @@ Demon lord tied to labyrinths, terror and the old Demon War against [[Yeenoghu]]
 
 The party's Baphomet thread runs from early suspicions about the founders, through library research and maze visions, to the mask of Anghraboddh and the Great Forge in the [[Infinite_Maze_of_Baphomet|Infinite Maze of Baphomet]].
 
+### Art
+![Master of the Hunt sketch](../assets/character%20art/master_of_the_hunt.jpeg)
+
+![Huntmaster reference](../assets/character%20art/Unofficial%20art/Huntmaster.png)
+
 **First seen:** Session 04; **Last seen:** Session 42.
 
 ### Notable mentions

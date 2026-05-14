@@ -9,6 +9,9 @@ source: "Merged: notes 1–32 + Codex1.0"
 ### Overview
 Bryce’s father; jewellers’ guild head with one arm and a network.
 
+### Art
+![Lin Larkin portrait](../../assets/character%20art/Lyn%20Larkin.png)
+
 **Aliases:** Lin.
 
 **First seen:** Session 01; **Last seen:** Session 32.

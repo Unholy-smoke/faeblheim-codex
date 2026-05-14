@@ -9,6 +9,11 @@ source: "Merged: notes 1–32 + Codex1.0"
 ### Overview
 Royal palace-city a day from Grima; where audiences make or break wars.
 
+### Art
+![Ceran Palace](../assets/character%20art/Usodxia.jpg)
+
+![Ceran Palace ruined](../assets/character%20art/Palace%20ruined.jpg)
+
 **Aliases:** Ceran_Palace, Palace of Tsarina, Palace_of_Tsarina.
 
 **First seen:** Session 31; **Last seen:** Session 31.

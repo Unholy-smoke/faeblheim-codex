@@ -9,6 +9,9 @@ source: "Merged: notes 1–32 + Codex1.0"
 ### Overview
 Rare tickets home—if you can find or craft one. Rumours say the recipe costs something you’ll miss.
 
+### Art
+![Hermes Key](../assets/character%20art/Hermes%20Key.png)
+
 **Aliases:** Hermes Keys, Hermes' Key.
 
 **First seen:** Session 12; **Last seen:** Session 31.

@@ -9,6 +9,11 @@ source: "Merged: notes 1-32 + Codex1.0"
 ### Overview
 Ruler of Ymleif; cautious but pragmatic monarch who granted audiences about looming war and tolerated uncomfortable truths.
 
+### Art
+![Tsarina Usdoxia portrait](../../assets/character%20art/Usdoxia%20Ym.png)
+
+![Tsarina Usdoxia at court](../../assets/character%20art/Usodxia.jpg)
+
 **Aliases:** Queen Usdoxia, Tsarina, Usdoxia.
 
 **First seen:** Session 01; **Last seen:** Session 32.

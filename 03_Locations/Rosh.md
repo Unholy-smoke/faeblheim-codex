@@ -8,4 +8,7 @@ source: "33on.txt"
 ---
 Storm giant citadel at the top of the [[Worldspire]], spread across floating plateaus connected by bridges, with carved stone, minarets and spires. By the party's arrival it was bent and broken, filled with storm giant bones and razor leaves growing out of corpses. A huge glyph of [[Taiia]] hangs above it: the beginning of her spell that ended the Demon War, waiting for activation.
 
+### Art
+![Rosh Regel](../assets/character%20art/Rosh%20Regel.jpg)
+
 **First seen:** Session 41; **Last seen:** Session 43.

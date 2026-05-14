@@ -11,6 +11,11 @@ Player faction associated with Karl Gurshtiel and his crew. They begin as a dire
 
 Their politics are tangled with the PvP ban, the morality of player death, and the question of whether Faeblheim should be preserved, reset or escaped.
 
+### Art
+![Karl's crew](../assets/character%20art/karl_boss_michu_dikny.jpeg)
+
+![Karl's party sketches](../assets/character%20art/karls_party_sketches.jpeg)
+
 **First seen:** Session 01; **Last seen:** Session 43.
 
 ### Notable mentions

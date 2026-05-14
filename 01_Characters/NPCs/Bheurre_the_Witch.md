@@ -9,6 +9,9 @@ source: "Merged: notes 1–32 + Codex1.0"
 ### Overview
 Ancient witch in a cave with a sliding door and sliding rates; trades in scryings and roc eggs.
 
+### Art
+![Bheurre the Witch](../../assets/character%20art/Bhuerre.png)
+
 **Aliases:** Bheurre.
 
 **First seen:** Session 17; **Last seen:** Session 17.

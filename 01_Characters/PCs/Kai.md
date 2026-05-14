@@ -9,6 +9,11 @@ source: "Episodes 1?32 master notes"
 ### Overview
 Kai is a tiefling sorcerer with wild magic like weather: mostly sunny, occasionally dramatic, and once in a while the kind of lightning strike that gives a city a new statue. They do not so much solve problems as **rearrange** them until a solution falls out. The results are frequently beautiful and always memorable.
 
+### Art
+![Kai portrait](../../assets/character%20art/kai%20face.png)
+
+![Kai expression](../../assets/character%20art/Fuckoff.png)
+
 ### Background & Drive
 Raised on a diet of sideways looks and sideways plans, Kai learned early that doing things the normal way meant doing them someone else?s way. Magic offered an alternative?one that was loud, colourful, and unreasonably effective. They?re not chasing power so much as **freedom**: room to be themselves, and to make sure other people get the same chance no matter what their horns, histories, or hometowns look like.
 

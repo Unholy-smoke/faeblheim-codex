@@ -9,6 +9,9 @@ source: "Merged: notes 1–32 + Codex1.0"
 ### Overview
 Capital of Ymleif (the Lustrous): guilds, forges, and a surprising number of politely-organised crimes.
 
+### Art
+![Grima](../assets/character%20art/Grima.jpg)
+
 **First seen:** Session 01; **Last seen:** Session 29.
 
 ### From Codex 1.0

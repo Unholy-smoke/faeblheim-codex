@@ -7,3 +7,8 @@ aliases: ["Steve Hiki"]
 source: "Founders_and_Monarchs + Karl's Diary"
 ---
 Steve Hiki is named as one of the founders connected to Faeblheim, alongside [[Kimori]]. [[Karl's Diary|Karl's Diary]] records speculation that Hiki, Kimori, or even the [[Monarchs]] may have sent forces into the game to clear it out.
+
+### Art
+![Steve Hiki](../assets/character%20art/Steve%20Hiki.png)
+
+![Steve Hiki and Yukai Kimori](../assets/character%20art/steve_hiki_yukai_kimori.jpeg)
