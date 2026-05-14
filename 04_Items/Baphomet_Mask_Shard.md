@@ -15,4 +15,4 @@ Half a face, twice the omen: the shard carries labyrinth weight and unwelcome at
 
 [[Deacon_Fned|Deacon Fned]] warned that the mask of Anghraboddh is extremely powerful. It can apparently be destroyed either with a Wish spell or by casting it into the Great Forge in the [[Infinite_Maze_of_Baphomet|Infinite Maze of Baphomet]].
 
-**First seen:** Session ?; **Last seen:** Session ?.
+**First seen:** Session -; **Last seen:** Session -.
