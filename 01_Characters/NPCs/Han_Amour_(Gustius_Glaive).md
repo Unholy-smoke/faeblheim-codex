@@ -8,7 +8,7 @@ source: "Merged: notes 1-32 + Codex1.0"
 ---
 ### Overview
 
-Vampire ex-boss of the [[Carnium_Consortium]]; sharp name, sharper teeth. Often found around [[Reichshaven]].
+Vampire ex-boss of the [[Carnium_Consortium|Carnium Consortium]]; sharp name, sharper teeth. Often found around [[Reichshaven]].
 
 **Aliases:** Han Amour, Gustius Glaive.
 
@@ -16,4 +16,4 @@ Vampire ex-boss of the [[Carnium_Consortium]]; sharp name, sharper teeth. Often 
 
 ### Notable moments
 
-- **S18:** Vampire Gustius Glaive, also known as Han Amour, used to lead the Carnium Consortium. [[Amon_Herr]] is their new leader.
+- **S18:** Vampire Gustius Glaive, also known as Han Amour, used to lead the Carnium Consortium. [[Amon_Herr|Amon Herr]] is their new leader.

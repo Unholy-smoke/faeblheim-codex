@@ -20,4 +20,4 @@ A group of powerful early players or developers known as Monarchs. Names include
 
 ### Session 43
 
-A freed Saint states that he is one of the Monarchs, and that [[Adonis_Blue_(Dagger)]] is one too. This creates a new link between the Monarchs, the [[Six_Saints]], and the struggle against Dagger.
+A freed Saint states that he is one of the Monarchs, and that [[Adonis_Blue_(Dagger)|Adonis Blue (Dagger)]] is one too. This creates a new link between the Monarchs, the [[Six_Saints|Six Saints]], and the struggle against Dagger.

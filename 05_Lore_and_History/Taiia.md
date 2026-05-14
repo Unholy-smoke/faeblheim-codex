@@ -1,22 +1,21 @@
-﻿---
+---
 name: "Taiia"
 layer: "In-game"
 type: "Lore"
-tags: ["lore"]
-aliases: []
-source: "Merged: notes 1â€“32 + Codex1.0"
+tags: ["lore", "religion"]
+aliases: ["Taia"]
+source: "Merged: notes 1-43 + Codex1.0"
 ---
 ### Overview
-Taiia: lore entry consolidated from session notes and earlier codex references.
+Creator goddess of Faeblheim and the power behind the Taiian faith. Taiia ended the Demon War, may cycle between waking and sleeping states, and is connected to the [[Six_Saints|Six Saints]] either by splitting herself into champions or by raising mortals to a saintly state.
 
-**First seen:** Session 24; **Last seen:** Session 32.
+Taiia's influence becomes personal when Bogsū feels her spirit enter him during mass and becomes a cleric. Later, at [[Rosh]], her power is being siphoned into an altar, interrupting Bogsū when he tries to reach her.
 
-### Notable mentions (from notes)
-- **S24:** Great Goddess who stepped in to end the war: Taiia.
-- **S24:** Taiia is the Goddess who made the world. Periods where she's awake and asleep at the same time? When she sleeps the demons fought. Asleep again now?
-- **S24:** Shrines to Taiia - could we visit one?
-- **S24:** Tsarina's house are Taiians, worshippers. Her family have been Rulers of Ym for 600 uncontested years.
-- **S32:** Bogsu says a silent prayer and feels the spirit of Taiia enter him. He is a cleric!
-- **S33:** Palace maze writings describe Taiia either splitting herself into six champions or empowering six mortals to fight the God-Felling Star.
-- **S41:** A vast glyph of Taiia floats above Rosh at the top of the Worldspire, the beginning of her spell that ended the Demon War and waits for activation.
-- **S42:** Taiia's power is being impeded and siphoned into an altar in Rosh, interrupting Bogsū when he tries to speak with her.
+**First seen:** Session 24; **Last seen:** Session 43.
+
+### Notable mentions
+- **S24:** Identified as the Great Goddess who made the world and stepped in to end the war.
+- **S24:** The Tsarina's house are Taiians, and her family have ruled Ymleif for 600 uncontested years.
+- **S32:** Bogsū prays and becomes a cleric of Taiia.
+- **S33:** Palace maze writings connect Taiia to the Six Saints and the [[God-Felling_Star|God-Felling Star]].
+- **S41-S42:** A vast glyph of Taiia hangs above Rosh, while her power is being impeded and siphoned into an altar.

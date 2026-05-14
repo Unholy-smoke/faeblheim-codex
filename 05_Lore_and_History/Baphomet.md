@@ -1,22 +1,22 @@
-﻿---
+---
 name: "Baphomet"
 layer: "In-game"
 type: "Lore"
-tags: ["lore"]
+tags: ["lore", "demon"]
 aliases: []
-source: "Merged: notes 1â€“32 + Codex1.0"
+source: "Merged: notes 1-43 + Codex1.0"
 ---
 ### Overview
-Baphomet: lore entry consolidated from session notes and earlier codex references.
+Demon lord tied to labyrinths, terror and the old Demon War against [[Yeenoghu]]. Baphomet may have been the instigator of that war, and his influence later appears in corrupted mazes, hostile plants, and his general [[Anghraboddh]].
 
-**First seen:** Session 04; **Last seen:** Session 29.
+The party's Baphomet thread runs from early suspicions about the founders, through library research and maze visions, to the mask of Anghraboddh and the Great Forge in the [[Infinite_Maze_of_Baphomet|Infinite Maze of Baphomet]].
 
-### Notable mentions (from notes)
-- **S04:** Are the founders behind Baphomet???
-- **S24:** Looking for books on bananas. Find Baphomet.
-- **S24:** Yeenoghu v Baphomet was the basis of the war. Baphomet likely the instigator. Loves putting terror into people.
-- **S24:** In the video, they are in a labyrinth while Baphomet's Beasts attack. Elia becomes a giraffe to see over the wall.
-- **S28:** Elia talks to plants. They want us to enter the maze and die. Clearly Baphomet is now in charge rather than the fey.
-- **S29:** It leaves behind half the face-mask of Baphomets general, known as Anghraboddh
-- **S33:** Deacon Fned says the mask of Anghraboddh can be destroyed in the Infinite Maze of Baphomet by casting it into the Great Forge.
-- **S42:** Anghraboddh, General of Baphomet, waits ahead in Rosh as a huge deer-skull demon.
+**First seen:** Session 04; **Last seen:** Session 42.
+
+### Notable mentions
+- **S04:** The party wonders whether the founders are behind Baphomet.
+- **S24:** Research suggests Yeenoghu versus Baphomet was the basis of the war, with Baphomet likely the instigator.
+- **S28:** Plants in the maze appear to be under Baphomet's control.
+- **S29:** A defeated enemy leaves behind half the face-mask of Baphomet's general, Anghraboddh.
+- **S33:** The mask can apparently be destroyed in the Infinite Maze of Baphomet.
+- **S42:** Anghraboddh, General of Baphomet, waits in Rosh as a huge deer-skull demon.

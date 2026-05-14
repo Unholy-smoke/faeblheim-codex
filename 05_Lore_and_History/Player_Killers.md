@@ -2,15 +2,18 @@
 name: "Player Killers"
 layer: "In-game"
 type: "Lore"
-tags: ["lore"]
-aliases: []
-source: "Merged: notes 1–32 + Codex1.0"
+tags: ["lore", "faction"]
+aliases: ["PKs"]
+source: "Merged: notes 1-32 + Codex1.0"
 ---
 ### Overview
-Player Killers: lore entry consolidated from session notes and earlier codex references.
+Player faction associated with Karl Gurshtiel and his crew. They begin as a direct threat to the party, later become parley partners, rivals and uneasy battlefield allies.
 
-**First seen:** Session 01; **Last seen:** Session 24.
+Their politics are tangled with the PvP ban, the morality of player death, and the question of whether Faeblheim should be preserved, reset or escaped.
 
-### Notable mentions (from notes)
-- **S01:** Confronted by a group calling themselves Player Killers, but survived.
-- **S24:** Parley with the Player Killers.
+**First seen:** Session 01; **Last seen:** Session 43.
+
+### Notable mentions
+- **S01:** The party survives a confrontation with people calling themselves Player Killers.
+- **S24:** The party parleys with the Player Killers.
+- **S43:** Karl's crew helps hold off Dagger long enough for the party to crack the altar.

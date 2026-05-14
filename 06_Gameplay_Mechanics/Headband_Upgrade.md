@@ -5,4 +5,4 @@ type: "Mechanic"
 tags: ["mechanic"]
 source: "Codex 1.0 import"
 ---
-Improving the [[Headband_of_Intellect]] or similar items via rare components.
+Improving the [[Headband_of_Intellect|Headband of Intellect]] or similar items via rare components.

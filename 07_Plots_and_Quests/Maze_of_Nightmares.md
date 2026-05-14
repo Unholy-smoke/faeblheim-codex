@@ -11,4 +11,4 @@ Find the shrine; try not to lose yourself.
 
 The palace maze became a hellish maze of fog, lightning, sulphur and demon dogs. The party escaped after a strange original player/shopkeeper used a genie created from Alayah's magic toads to remove the monsters and send them home.
 
-Back in the prime version of the maze, the party uncovered a cracked altar and writings about the [[Second_Cataclysm]], [[God-Felling_Star]] and [[Six_Saints]].
+Back in the prime version of the maze, the party uncovered a cracked altar and writings about the [[Second_Cataclysm|Second Cataclysm]], [[God-Felling_Star|God-Felling Star]] and [[Six_Saints|Six Saints]].

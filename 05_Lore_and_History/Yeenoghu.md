@@ -2,16 +2,16 @@
 name: "Yeenoghu"
 layer: "In-game"
 type: "Lore"
-tags: ["lore"]
+tags: ["lore", "demon"]
 aliases: []
-source: "Merged: notes 1–32 + Codex1.0"
+source: "Merged: notes 1-32 + Codex1.0"
 ---
 ### Overview
-Yeenoghu: lore entry consolidated from session notes and earlier codex references.
+Demon god tied to gnolls and the old Demon War against [[Baphomet]]. [[Ashmogh]] attempts a ritual to summon Yeenoghu in the Me-Na marchlands, making the war feel less like history and more like a recurrence.
 
 **First seen:** Session 21; **Last seen:** Session 24.
 
-### Notable mentions (from notes)
-- **S21:** We need to kill Ashmogh. He is the leader of the gnolls and is doing a ritual to summon demon god Yeenoghu. This is the demon war happening again.
-- **S21:** Killing Ashmogh would end the ritual to summon Yeenoghu
-- **S24:** Yeenoghu v Baphomet was the basis of the war. Baphomet likely the instigator. Loves putting terror into people.
+### Notable mentions
+- **S21:** Ashmogh is leading gnolls and performing a ritual to summon Yeenoghu.
+- **S21:** Killing Ashmogh would end the ritual.
+- **S24:** Baphomet versus Yeenoghu is identified as the basis of the Demon War.

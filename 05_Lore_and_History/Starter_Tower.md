@@ -2,15 +2,17 @@
 name: "Starter Tower"
 layer: "In-game"
 type: "Lore"
-tags: ["lore"]
-aliases: []
-source: "Merged: notes 1–32 + Codex1.0"
+tags: ["lore", "location"]
+aliases: ["Starters Tower", "Beginner's Lounge"]
+source: "Merged: notes 1-32 + Codex1.0"
 ---
 ### Overview
-Starter Tower: lore entry consolidated from session notes and earlier codex references.
+Starting-area tower above Grima, closely associated with the game's onboarding structures. The party returns here with Bheurre and is confronted by Karl's crew; soon after, the tower becomes part of a reality-glitch incident where Grima and a hell dimension seem to overlap.
+
+See also [[Starters_Tower_Beginners_Lounge|Starters Tower Beginners Lounge]].
 
 **First seen:** Session 23; **Last seen:** Session 24.
 
-### Notable mentions (from notes)
-- **S23:** We journey southward towards Tsarina, and go to see Beurre the witch again. We tell her what we've learnt. She agrees to teleport us back to the Starter Tower above Grima. As soon as we arrive there with her, we are accosted by Karl and his cronies!
-- **S24:** We jump out of the Starter Tower. Something is wrong though. We can see Grima but also a hell dimension racing up towards us. We try to aim towards Grima.
+### Notable mentions
+- **S23:** Bheurre teleports the party to the Starter Tower above Grima, where Karl and his cronies are waiting.
+- **S24:** The party jumps from the tower while reality around Grima appears to be going wrong.

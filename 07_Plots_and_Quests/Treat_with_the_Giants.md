@@ -5,7 +5,7 @@ type: "Quest"
 tags: ["quest"]
 source: "33on.txt"
 ---
-Mission from [[Tsarina_Usdoxia]] to treat with the giants of the [[Worldspire]] using [[Tsarina's_Sigil]] as authority. The mission quickly became entangled with giant murders, the [[Megurash]], and the crisis in [[Rosh]].
+Mission from [[Tsarina_Usdoxia|Tsarina Usdoxia]] to treat with the giants of the [[Worldspire]] using [[Tsarina's_Sigil|Tsarina's Sigil]] as authority. The mission quickly became entangled with giant murders, the [[Megurash]], and the crisis in [[Rosh]].
 
 **Status:** Ongoing.
 

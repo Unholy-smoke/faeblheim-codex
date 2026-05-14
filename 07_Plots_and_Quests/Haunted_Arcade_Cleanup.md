@@ -4,10 +4,10 @@ layer: "In-game"
 type: "Quest"
 tags: ["quest"]
 aliases: ["Haunted Arcade", "Arcade"]
-source: "Merged: notes 1–32"
+source: "Merged: notes 1-32"
 ---
 ### Overview
-A civic haunting with economic side-effects; part exorcism, part urban renewal.
+A civic haunting with economic side-effects; part exorcism, part urban renewal. This page absorbs the old Haunted Arcade quest stub. The physical place remains at [[Haunted_Arcade|Haunted Arcade]].
 
 **Aliases:** Arcade, Haunted Arcade.
 

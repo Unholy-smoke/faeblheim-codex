@@ -8,7 +8,7 @@ source: "Merged: notes 1-32 + Codex1.0"
 ---
 ### Overview
 
-Gold dragon passing as an orc bartender at the [[Green_Scream_Inn]]; clandestine ally and worst-kept secret best friend.
+Gold dragon passing as an orc bartender at the [[Green_Scream_Inn|Green Scream Inn]]; clandestine ally and worst-kept secret best friend.
 
 **Aliases:** Leon, Dath'ruk'hai.
 

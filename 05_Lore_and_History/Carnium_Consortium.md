@@ -2,15 +2,15 @@
 name: "Carnium Consortium"
 layer: "In-game"
 type: "Lore"
-tags: ["lore"]
-aliases: []
-source: "Merged: notes 1–32 + Codex1.0"
+tags: ["lore", "faction"]
+aliases: ["Carnium"]
+source: "Merged: notes 1-32 + Codex1.0"
 ---
 ### Overview
-Carnium Consortium: lore entry consolidated from session notes and earlier codex references.
+Bandit-criminal organisation trying to expand into Hainic and connected to vampire politics in Reichshaven. [[Han_Amour_(Gustius_Glaive)|Han Amour]], also known as Gustius Glaive, used to lead the Consortium; [[Amon_Herr|Amon Herr]] is its newer leader.
 
 **First seen:** Session 14; **Last seen:** Session 18.
 
-### Notable mentions (from notes)
-- **S14:** Learnt about Carnium Consortium. Local bandit mob. Trying to move into Haenic.
-- **S18:** Vampire: Gustius Glaive aka Han Amour used to lead Carnium Consortium. Amon Herr is their new leader.
+### Notable mentions
+- **S14:** The Carnium Consortium is described as a local bandit mob trying to move into Hainic.
+- **S18:** Gustius Glaive/Han Amour is identified as a former leader, with Amon Herr now in charge.
